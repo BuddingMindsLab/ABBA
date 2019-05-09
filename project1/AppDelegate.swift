@@ -27,6 +27,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationDidEnterBackground(_ application: UIApplication) {
         // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
         // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
+//        let path = NSURL(fileURLWithPath: NSTemporaryDirectory()).appendingPathComponent("Times.csv")
+//        let text = TestingPhaseViewController.subject + TestingPhaseViewController.age + TestingPhaseViewController.times + TestingPhaseViewController.responses
+//        do {
+//            try text.write(to: path!, atomically: true, encoding: String.Encoding.utf8)
+//        } catch {
+//            print("Failed to save")
+//        }
+//        let vc = UIActivityViewController(activityItems: [path!], applicationActivities: nil)
+//        present(vc, animated: true, completion: nil)
+//        if let popOver = vc.popoverPresentationController {
+//            popOver.sourceView = self.view
+//        }
+        
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {
