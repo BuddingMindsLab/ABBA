@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		311192D0215DB36800DFA3CE /* sequences2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 311192CF215DB36800DFA3CE /* sequences2.csv */; };
-		31669CED2232E38200321EE4 /* ipad_test_v2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31669CEC2232E38200321EE4 /* ipad_test_v2.csv */; };
 		3187AD0F2149B785000080DC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3187AD0E2149B784000080DC /* Images.xcassets */; };
 		3187AD112149C69F000080DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3187AD102149C69E000080DC /* Assets.xcassets */; };
 		31AF65E9227CF3BE00A0BADE /* CB2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31AF65E6227CF3A300A0BADE /* CB2.csv */; };
@@ -16,20 +14,15 @@
 		31AF65EB227CF3BE00A0BADE /* CB1.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31AF65E8227CF3BD00A0BADE /* CB1.csv */; };
 		31AF65EE227CF47500A0BADE /* ipad_test_v4.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31AF65ED227CF47400A0BADE /* ipad_test_v4.csv */; };
 		31AF65F42284C5DE00A0BADE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31AF65F32284C5DE00A0BADE /* Main.storyboard */; };
-		31B9E1EC21401EA80068B1C7 /* data.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31B9E1EB21401EA70068B1C7 /* data.csv */; };
-		31F3B248225FEB81007D7D0E /* ipad_test_v3.csv in Resources */ = {isa = PBXBuildFile; fileRef = 31F3B247225FEB80007D7D0E /* ipad_test_v3.csv */; };
 		F3344650211E1C7C0046666E /* TestingPhaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F334464F211E1C7C0046666E /* TestingPhaseViewController.swift */; };
 		F34E180C20F3E9930011C8DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34E180B20F3E9930011C8DC /* AppDelegate.swift */; };
 		F34E181620F3E9930011C8DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F34E181420F3E9930011C8DC /* LaunchScreen.storyboard */; };
 		F3B5EB2B21121ABD00CD96EF /* LearningPhaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3B5EB2A21121ABC00CD96EF /* LearningPhaseViewController.swift */; };
 		F3B5EB30211234E800CD96EF /* CSVReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3B5EB2F211234E800CD96EF /* CSVReader.swift */; };
 		F3B5EB32211236F800CD96EF /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3B5EB31211236F800CD96EF /* WelcomeViewController.swift */; };
-		F3C1CBF22118EB1E00DA77B2 /* sequences.csv in Resources */ = {isa = PBXBuildFile; fileRef = F3C1CBF12118EB1E00DA77B2 /* sequences.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		311192CF215DB36800DFA3CE /* sequences2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sequences2.csv; sourceTree = "<group>"; };
-		31669CEC2232E38200321EE4 /* ipad_test_v2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ipad_test_v2.csv; sourceTree = "<group>"; };
 		3187AD0E2149B784000080DC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3187AD102149C69E000080DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31AF65E6227CF3A300A0BADE /* CB2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CB2.csv; sourceTree = "<group>"; };
@@ -37,8 +30,6 @@
 		31AF65E8227CF3BD00A0BADE /* CB1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CB1.csv; sourceTree = "<group>"; };
 		31AF65ED227CF47400A0BADE /* ipad_test_v4.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ipad_test_v4.csv; sourceTree = "<group>"; };
 		31AF65F32284C5DE00A0BADE /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		31B9E1EB21401EA70068B1C7 /* data.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.csv; sourceTree = "<group>"; };
-		31F3B247225FEB80007D7D0E /* ipad_test_v3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ipad_test_v3.csv; sourceTree = "<group>"; };
 		F334464F211E1C7C0046666E /* TestingPhaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingPhaseViewController.swift; sourceTree = "<group>"; };
 		F34E180820F3E9930011C8DC /* project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F34E180B20F3E9930011C8DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -47,7 +38,6 @@
 		F3B5EB2A21121ABC00CD96EF /* LearningPhaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearningPhaseViewController.swift; sourceTree = "<group>"; };
 		F3B5EB2F211234E800CD96EF /* CSVReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVReader.swift; sourceTree = "<group>"; };
 		F3B5EB31211236F800CD96EF /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
-		F3C1CBF12118EB1E00DA77B2 /* sequences.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = sequences.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,14 +51,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		31669CE722320E8300321EE4 /* shape_images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = shape_images;
-			path = shapes;
-			sourceTree = "<group>";
-		};
 		F34E17FF20F3E9930011C8DC = {
 			isa = PBXGroup;
 			children = (
@@ -88,14 +70,8 @@
 		F34E180A20F3E9930011C8DC /* project1 */ = {
 			isa = PBXGroup;
 			children = (
-				31669CE722320E8300321EE4 /* shape_images */,
 				3187AD102149C69E000080DC /* Assets.xcassets */,
 				3187AD0E2149B784000080DC /* Images.xcassets */,
-				31B9E1EB21401EA70068B1C7 /* data.csv */,
-				F3C1CBF12118EB1E00DA77B2 /* sequences.csv */,
-				311192CF215DB36800DFA3CE /* sequences2.csv */,
-				31669CEC2232E38200321EE4 /* ipad_test_v2.csv */,
-				31F3B247225FEB80007D7D0E /* ipad_test_v3.csv */,
 				31AF65ED227CF47400A0BADE /* ipad_test_v4.csv */,
 				31AF65E8227CF3BD00A0BADE /* CB1.csv */,
 				31AF65E6227CF3A300A0BADE /* CB2.csv */,
@@ -173,19 +149,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3C1CBF22118EB1E00DA77B2 /* sequences.csv in Resources */,
-				31669CED2232E38200321EE4 /* ipad_test_v2.csv in Resources */,
 				F34E181620F3E9930011C8DC /* LaunchScreen.storyboard in Resources */,
 				31AF65EB227CF3BE00A0BADE /* CB1.csv in Resources */,
 				3187AD0F2149B785000080DC /* Images.xcassets in Resources */,
 				3187AD112149C69F000080DC /* Assets.xcassets in Resources */,
-				31B9E1EC21401EA80068B1C7 /* data.csv in Resources */,
 				31AF65F42284C5DE00A0BADE /* Main.storyboard in Resources */,
 				31AF65EE227CF47500A0BADE /* ipad_test_v4.csv in Resources */,
-				31F3B248225FEB81007D7D0E /* ipad_test_v3.csv in Resources */,
 				31AF65E9227CF3BE00A0BADE /* CB2.csv in Resources */,
 				31AF65EA227CF3BE00A0BADE /* CB3.csv in Resources */,
-				311192D0215DB36800DFA3CE /* sequences2.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
